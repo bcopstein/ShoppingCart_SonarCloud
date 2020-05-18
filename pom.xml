@@ -7,10 +7,10 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <sonar.projectKey>COMPLETAR</sonar.projectKey>
+        <sonar.projectKey>bcopstein_ShoppingCart_SonarCloud</sonar.projectKey>
         <sonar.organization>bcopstein</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.login>48d538b66bf494662c4a7dd1fa3903333a9a4436</sonar.login>
+        <sonar.login>c9454e0f0196230ea40b36f573be0662710a5f89</sonar.login>
       </properties>
 
     <dependencies>
